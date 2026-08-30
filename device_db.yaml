@@ -6247,3 +6247,31 @@ SWITCH_ZEMISMART_TS0601_6GANG:
   info: Needs pinout. Secondary MCU. 6-gang!
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/209
   store: https://www.zemismart.com/products/tb26-6
+
+MODULE_HIDIN_KS811_TS0002:
+  human_name: Hidin KS-811-2 (Bathroom Switches)
+  category: module
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0002
+  stock_manufacturer_name: _TZ3000_spoktocl
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0002_limited
+  override_z2m_device: null
+  tuya_module: ZTU
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: spoktocl;TS0002-KS811;LD3;SC3u;RC1;SC4u;RD4;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: null
+  stock_image_type: null
+  firmware_image_type: 47116
+  build: yes
+  status: in_progress
+  info: Community bench-port (untested). ZTU/TLSR8258 pins traced - switches C3/C4, relays C1/D4, net LED D3. Verify LED role, gang order, polarity on first flash.
+  threads: null
+  store: null
