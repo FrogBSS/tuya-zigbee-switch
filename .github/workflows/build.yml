@@ -69,7 +69,12 @@ jobs:
             echo "Skipping $ITER as building this model is disabled in the db."
             continue
           fi
-  
+
+          if [ "$ITER" != "MODULE_HIDIN_KS811_TS0002" ]; then
+            echo "Skipping $ITER (fork: building only KS811)."
+            continue
+          fi
+
           echo "Building for board: $ITER (router)"
           BOARD=$ITER DEVICE_TYPE=router make board/build || exit 1
           echo "Checking if files were created for board: $ITER (router)"
