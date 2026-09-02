@@ -6254,7 +6254,7 @@ MODULE_HIDIN_KS811_TS0002:
   power: mains
   neutral: required
   output: relay
-  device_type: router
+  device_type: end_device
   stock_model_name: TS0002
   stock_manufacturer_name: _TZ3000_spoktocl
   stock_converter_manufacturer: Tuya
