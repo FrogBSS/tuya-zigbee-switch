@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "fileName": "tlc_switch-1.1.2-d10c217f.zigbee",
+    "fileVersion": 285356037,
+    "fileSize": 150418,
+    "url": "https://github.com/FrogBSS/tuya-zigbee-switch/raw/refs/heads/add-ks811-spoktocl/bin/end_device/MODULE_HIDIN_KS811_TS0002_END_DEVICE/tlc_switch-1.1.2-d10c217f.zigbee",
+    "imageType": 47116,
+    "manufacturerCode": 4417,
+    "sha512": "f7386eccac0578b8b5fbb534ac22733556d0051ea41fae589971b256ff74ae6a3b9c134750c6b88a49b2b74e19b914e8d2be9563f968eb84e7a56a69496a7327",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_spoktocl",
+      "spoktocl"
+    ]
+  }
+]

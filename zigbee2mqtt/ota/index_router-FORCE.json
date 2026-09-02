@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-85165d67-forced.zigbee",
+    "fileName": "tlc_switch-1.1.2-d10c217f-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180994,
-    "url": "https://github.com/FrogBSS/tuya-zigbee-switch/raw/b72649ed1f879d52f40465ce5099a89f16aa6e9d/bin/router/MODULE_HIDIN_KS811_TS0002/tlc_switch-1.1.2-85165d67-forced.zigbee",
+    "url": "https://github.com/FrogBSS/tuya-zigbee-switch/raw/refs/heads/add-ks811-spoktocl/bin/router/MODULE_HIDIN_KS811_TS0002/tlc_switch-1.1.2-d10c217f-forced.zigbee",
     "imageType": 47116,
     "manufacturerCode": 4417,
-    "sha512": "aa8c60f45aea551e6a048184fa453df69aaae1d68f95b7f6cd9f4f6fbbd8b01b0807ff34bd75cbaa8ca3e3c2c23f26dd64ba6e451b034c53b14b7ed81a7adcbb",
+    "sha512": "cec68430c2e09676d2df3bc7a71f684f5cdd43046e0dd17840504197d86906fc1a7c2c63244c0b9638a4862ad7a0d27977e6c87aeddde84f7da7abf6f674fdb6",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_spoktocl",
